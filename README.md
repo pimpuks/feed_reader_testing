@@ -12,3 +12,4 @@ To run the application, download or clone the repository and open index.html in 
 - [Google Fonts](https://fonts.google.com/)
 - [jQuery](https://jquery.com/)
 - [Handlebars.js](https://handlebarsjs.com/)
+- Google Feed Reader API
