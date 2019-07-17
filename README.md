@@ -4,7 +4,7 @@ The Feed Reader web application is from Udacity's [Feed Reader Testing starter c
 
 ## Running the Feed Reder
 
-To run the application, download or clone the repository and open index.html in the browser, or open the version hosted on Github page [here](https://pimpuks.github.io/feed_reader_testing/).
+To run the application, download or clone the repository and open index.html in the browser.
 
 ## Dependencies
 
